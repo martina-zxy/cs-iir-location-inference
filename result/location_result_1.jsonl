@@ -1,0 +1,974 @@
+{"bourgogne": {"lat": 47.3279261, "lng": 5.0434027}}
+{"san francisco, ca": {"lat": 37.7749295, "lng": -122.4194155}}
+{"france": {"lat": 46.227638, "lng": 2.213749}}
+{"city of stars": {"lat": 34.0910444, "lng": -118.2930663}}
+{"united states": {"lat": 37.09024, "lng": -95.712891}}
+{"en la calle 13": {"lat": 19.4538613, "lng": -70.7040076}}
+{"legans, espaa": {"lat": 41.97828, "lng": 2.81909}}
+{"ttouan, royaume du maroc": {"lat": 35.5888995, "lng": -5.3625516}}
+{"caen": {"lat": 49.182863, "lng": -0.370679}}
+{"barcelona": {"lat": 41.3850639, "lng": 2.1734035}}
+{"winterfell": {"lat": 54.373177, "lng": -5.5786663}}
+{"south french": {"lat": 44.4671582, "lng": -73.17433679999999}}
+{"paris": {"lat": 48.856614, "lng": 2.3522219}}
+{"dublin": {"lat": 53.3498053, "lng": -6.2603097}}
+{"martinique": {"lat": 14.641528, "lng": -61.024174}}
+{"paris, france": {"lat": 48.856614, "lng": 2.3522219}}
+{"isen_brest": {"lat": 48.4070554, "lng": -4.495553999999999}}
+{"biarritz, basque country": {"lat": 43.4831519, "lng": -1.558626}}
+{"the three broomsticks": {"lat": 34.138855, "lng": -118.3542585}}
+{"itapecuru mirim/brasil": {"lat": -3.3994526, "lng": -44.351805}}
+{"dijon, france": {"lat": 47.322047, "lng": 5.04148}}
+{"san lorenzo, santa fe": {"lat": -32.747416, "lng": -60.73567540000001}}
+{"fachosphre": {}}
+{"new york, usa": {"lat": 40.7127753, "lng": -74.0059728}}
+{"braslia": {"lat": -15.7942287, "lng": -47.8821658}}
+{"poitiers": {"lat": 46.58022400000001, "lng": 0.340375}}
+{"tunis": {"lat": 36.8064948, "lng": 10.1815316}}
+{"avze, france": {"lat": 48.974797, "lng": 4.012796}}
+{"canada": {"lat": 56.130366, "lng": -106.346771}}
+{"clemenceau medical center": {"lat": 33.8976822, "lng": 35.4902233}}
+{"munich & international": {"lat": 48.1351253, "lng": 11.5819805}}
+{"chauny": {"lat": 49.615576, "lng": 3.219421}}
+{"seoul, korea": {"lat": 37.566535, "lng": 126.9779692}}
+{"reims france": {"lat": 49.258329, "lng": 4.031696}}
+{"martillac, france": {"lat": 44.712698, "lng": -0.543056}}
+{"belgi": {"lat": 50.503887, "lng": 4.469936}}
+{"flayosc, france": {"lat": 43.534572, "lng": 6.394899}}
+{"rennes, france": {"lat": 48.117266, "lng": -1.6777926}}
+{"saint-etienne, france": {"lat": 45.439695, "lng": 4.3871779}}
+{"casablanca, maroc": {"lat": 33.5731104, "lng": -7.589843399999999}}
+{" ": {}}
+{"ri": {"lat": 41.5800945, "lng": -71.4774291}}
+{"": {}}
+{"amposta": {"lat": 40.7067997, "lng": 0.5801695}}
+{"barcelona, republic of catalonia": {"lat": 41.3876803, "lng": 2.1717388}}
+{"sabadell": {"lat": 41.5462745, "lng": 2.1086131}}
+{", ": {}}
+{"france hinges": {"lat": 50.565838, "lng": 2.626723}}
+{"brittany, france": {"lat": 48.2020471, "lng": -2.9326435}}
+{"madrid": {"lat": 40.4167754, "lng": -3.7037902}}
+{"bristol uk": {"lat": 51.454513, "lng": -2.58791}}
+{"uk": {"lat": 55.378051, "lng": -3.435973}}
+{"vitry-sur-seine, france": {"lat": 48.792001, "lng": 2.39851}}
+{"kraainem, belgi": {"lat": 50.8610856, "lng": 4.4592974}}
+{"distrito federal, mxico": {"lat": 19.4326077, "lng": -99.133208}}
+{"ile-de-france, france": {"lat": 48.8499198, "lng": 2.6370411}}
+{"espaa": {"lat": 37.1270198, "lng": -8.5400853}}
+{"san pedro de macoris": {"lat": 18.4720698, "lng": -69.2996732}}
+{"las palmeras 331 - san isidro": {"lat": -12.0935891, "lng": -77.0380875}}
+{"madrid, europa": {"lat": 40.4167754, "lng": -3.7037902}}
+{"latinoamrica": {"lat": -23.5267697, "lng": -46.6642913}}
+{"chicago, il": {"lat": 41.8781136, "lng": -87.6297982}}
+{"d.o. empord": {"lat": 41.9586483, "lng": 3.0397887}}
+{"aquitaine, france": {"lat": 44.7002222, "lng": -0.2995785}}
+{"gray, la": {"lat": 29.6977108, "lng": -90.786481}}
+{"champagne-ardenne, france": {"lat": 48.7934092, "lng": 4.4725249}}
+{"somewhere else": {"lat": 40.4857766, "lng": -74.4466502}}
+{"strasbourg, france": {"lat": 48.5734053, "lng": 7.752111299999999}}
+{"birkhadem alger algerie": {"lat": 36.7162726, "lng": 3.0425977}}
+{"hawaii, usa": {"lat": 21.3155434, "lng": -157.8615682}}
+{"tamaulipas, mxico": {"lat": 24.26694, "lng": -98.8362755}}
+{"bursa, trkiye": {"lat": 40.1885281, "lng": 29.0609636}}
+{"mayotte": {"lat": -12.8275, "lng": 45.166244}}
+{"honeymoon ve.": {"lat": 22.2872963, "lng": 114.1504117}}
+{"paris-monde": {"lat": 48.8306104, "lng": 2.3467254}}
+{"madrid almera espaa eu": {}}
+{"montral - canada": {"lat": 45.5016889, "lng": -73.567256}}
+{"paris, ile-de-france": {"lat": 48.856614, "lng": 2.3522219}}
+{"neverland": {"lat": 34.6514983, "lng": -83.88534109999999}}
+{"ivry-sur-seine, france": {"lat": 48.813055, "lng": 2.38822}}
+{"nice, france": {"lat": 43.7101728, "lng": 7.261953200000001}}
+{"pau, france": {"lat": 43.2951, "lng": -0.370797}}
+{"milano, lombardia": {"lat": 45.4642035, "lng": 9.189982}}
+{"naples, campania": {"lat": 40.8517746, "lng": 14.2681244}}
+{"kinshasa": {"lat": -4.4419311, "lng": 15.2662931}}
+{"lyon, france": {"lat": 45.764043, "lng": 4.835659}}
+{"ajaltoun": {"lat": 33.9678362, "lng": 35.6850701}}
+{"toulouse": {"lat": 43.604652, "lng": 1.444209}}
+{"boston, ma": {"lat": 42.3600825, "lng": -71.0588801}}
+{"br": {"lat": -14.235004, "lng": -51.92528}}
+{"new york, ny": {"lat": 40.7127753, "lng": -74.0059728}}
+{"ukiyo hotel": {}}
+{"repblica korea norte.": {"lat": 40.339852, "lng": 127.510093}}
+{"arcachon, france": {"lat": 44.652297, "lng": -1.1785016}}
+{"ciudad autnoma de buenos aire": {"lat": -34.6036844, "lng": -58.3815591}}
+{"naucalpan de jurez, mxico": {"lat": 19.4630841, "lng": -99.245302}}
+{"so paulo, brasil": {"lat": -23.5505199, "lng": -46.63330939999999}}
+{"paris, european union": {"lat": 48.8643505, "lng": 2.2855877}}
+{"gap, france": {"lat": 44.559638, "lng": 6.079758}}
+{"aix-en-provence, france": {"lat": 43.529742, "lng": 5.447426999999999}}
+{"beirut | paris | lausanne": {"lat": 46.5210895, "lng": 6.5801606}}
+{"toulouse, france": {"lat": 43.604652, "lng": 1.444209}}
+{"mxico": {"lat": 23.634501, "lng": -102.552784}}
+{"lima, per": {"lat": -12.0463731, "lng": -77.042754}}
+{"issy les moulineaux": {"lat": 48.8245306, "lng": 2.2743419}}
+{"berne, suisse": {"lat": 46.9479739, "lng": 7.4474468}}
+{"courbevoie, france": {"lat": 48.900552, "lng": 2.25929}}
+{"quelque part..": {"lat": 49.4418312, "lng": 1.0907195}}
+{"milan, lombardy": {"lat": 45.4642035, "lng": 9.189982}}
+{"saint-gaudens, france": {"lat": 43.106895, "lng": 0.7237629999999999}}
+{"london / madrid / dubai": {}}
+{"montreux, vaud": {"lat": 46.4312213, "lng": 6.9106799}}
+{"saint john, new brunswick": {"lat": 45.2733153, "lng": -66.06330799999999}}
+{"montral": {"lat": 45.5016889, "lng": -73.567256}}
+{"roquebrune-cap-martin, provenc": {"lat": 43.757808, "lng": 7.473754}}
+{"montpellier": {"lat": 43.610769, "lng": 3.876716}}
+{"baie du mont-saint-michel": {"lat": 48.656428, "lng": -1.657314}}
+{"carshalton, surrey, uk": {"lat": 51.365018, "lng": -0.164921}}
+{"eure-et-loir": {"lat": 48.5525242, "lng": 1.1989814}}
+{"tunisie": {"lat": 33.886917, "lng": 9.537499}}
+{"kota bandung, jawa barat": {"lat": -6.9174639, "lng": 107.6191228}}
+{"ile de la runion": {"lat": -21.115141, "lng": 55.536384}}
+{"circo 4403": {"lat": 32.4342826, "lng": -97.6880475}}
+{"   ": {}}
+{"america": {"lat": 37.09024, "lng": -95.712891}}
+{"montevideo": {"lat": -34.9011127, "lng": -56.16453139999999}}
+{"baguio city": {"lat": 16.4023332, "lng": 120.5960071}}
+{"valencia": {"lat": 28.5217717, "lng": -81.4634578}}
+{"bordeaux": {"lat": 44.837789, "lng": -0.57918}}
+{"crz stokholm": {"lat": 14.3034183, "lng": 121.0703985}}
+{"damgan, france": {"lat": 47.519791, "lng": -2.57876}}
+{"roma": {"lat": 41.9027835, "lng": 12.4963655}}
+{"pierrelaye, france": {"lat": 49.022697, "lng": 2.1547299}}
+{"bauvin, france": {"lat": 50.51481099999999, "lng": 2.897245}}
+{"paris ix": {"lat": 48.870029, "lng": 2.273451}}
+{"bruxelles": {"lat": 50.8503463, "lng": 4.3517211}}
+{"chatou, france": {"lat": 48.896391, "lng": 2.160098}}
+{"raffinementfrancophone.com": {}}
+{"27 rue jacob, paris 6": {"lat": 48.8553177, "lng": 2.3343662}}
+{"london, uk": {"lat": 51.5073509, "lng": -0.1277583}}
+{"englishmen in ny": {"lat": 40.9967557, "lng": -74.1489826}}
+{"le perray en yvelines": {"lat": 48.696146, "lng": 1.847679}}
+{"vanves, france": {"lat": 48.822484, "lng": 2.288405}}
+{"naro, sicilia": {"lat": 37.2948287, "lng": 13.7951239}}
+{"curitiba pr": {"lat": -25.4244287, "lng": -49.2653819}}
+{"here, now": {"lat": 45.5345536, "lng": -122.6242966}}
+{"rio de janeiro, brasil": {"lat": -22.9068467, "lng": -43.1728965}}
+{"brussels": {"lat": 50.8503463, "lng": 4.3517211}}
+{"rennes": {"lat": 48.117266, "lng": -1.6777926}}
+{"xixn-asturies": {}}
+{"alsace, cte d'azur": {"lat": 48.5918661, "lng": 7.754398500000001}}
+{"wallers, france": {"lat": 50.37427, "lng": 3.391335}}
+{"st tropez, france": {"lat": 43.2676808, "lng": 6.640710899999999}}
+{"andalucia": {"lat": 37.5442706, "lng": -4.7277528}}
+{"colmar alsace": {"lat": 48.0793589, "lng": 7.358511999999999}}
+{"firenze, madrid, bogot": {"lat": 43.770117, "lng": 11.251984}}
+{"marlia-sp-brasil": {"lat": -22.2175997, "lng": -49.9505101}}
+{"lima,  per": {"lat": -12.0463731, "lng": -77.042754}}
+{"nancy, france": {"lat": 48.692054, "lng": 6.184417}}
+{"aubagne, france": {"lat": 43.2926781, "lng": 5.5676425}}
+{"palais des nations, genve": {"lat": 46.22659030000001, "lng": 6.1406394}}
+{"sainte-savine, france": {"lat": 48.293191, "lng": 4.056495}}
+{"savalou, bnin": {"lat": 7.930136500000001, "lng": 1.9710284}}
+{"here and there": {"lat": 47.78617430000001, "lng": -122.3502113}}
+{"bordeaux france aquitaine": {"lat": 44.837789, "lng": -0.57918}}
+{"montral, qubec": {"lat": 45.5016889, "lng": -73.567256}}
+{"ldziny, polska": {"lat": 50.1425364, "lng": 19.1310539}}
+{"lyon": {"lat": 45.764043, "lng": 4.835659}}
+{"verges-sur-roubignolles, 69.": {}}
+{" jeju": {"lat": 33.4996213, "lng": 126.5311884}}
+{"corleone, sicilia": {"lat": 37.8138168, "lng": 13.298785}}
+{"london": {"lat": 51.5073509, "lng": -0.1277583}}
+{"estado de mxico": {"lat": 19.4968732, "lng": -99.72326729999999}}
+{"copacabana": {"lat": 40.7601749, "lng": -73.98723729999999}}
+{"carcassonne, france": {"lat": 43.212161, "lng": 2.353663}}
+{"dosquebradas": {"lat": 4.8318256, "lng": -75.68056779999999}}
+{"pompi": {"lat": 40.7461572, "lng": 14.4989344}}
+{"catalunya-tibet": {"lat": 41.4158782, "lng": 2.1581121}}
+{"blida": {"lat": 36.4757929, "lng": 2.8297576}}
+{"miami beach, fl": {"lat": 25.790654, "lng": -80.1300455}}
+{"el masnou": {"lat": 41.4805684, "lng": 2.3147677}}
+{"france et suisse": {"lat": 45.360702, "lng": 4.70747}}
+{"sambava": {"lat": -14.2713338, "lng": 50.1678121}}
+{"calafell": {"lat": 41.1938386, "lng": 1.5664556}}
+{"he andado muchos caminos....": {}}
+{"cambridge": {"lat": 52.205337, "lng": 0.121817}}
+{"boulogne-billancourt": {"lat": 48.8396952, "lng": 2.2399123}}
+{"#warszawa #lsk": {}}
+{"rua dos douradores": {"lat": 38.7115661, "lng": -9.136725100000001}}
+{"lille - m town": {"lat": 50.62925, "lng": 3.057256}}
+{"plymouth, nh": {"lat": 43.7570196, "lng": -71.6881528}}
+{"firenze,italia": {"lat": 43.7695604, "lng": 11.2558136}}
+{"sant cugat del valles": {"lat": 41.4526016, "lng": 2.0763253}}
+{"the shire": {"lat": 30.3626927, "lng": -91.0709371}}
+{"lorraine": {"lat": 48.8744233, "lng": 6.2080932}}
+{"san jose, ca": {"lat": 37.3382082, "lng": -121.8863286}}
+{"parissyracusaleccetriestenice": {}}
+{"barcelone, la ville la plus cosmopolite et ouverte du monde!!!": {}}
+{"raimbeaucourt, france": {"lat": 50.440028, "lng": 3.100906}}
+{"rouen, france": {"lat": 49.44323199999999, "lng": 1.099971}}
+{"buruksel": {}}
+{"santa barbara, ca": {"lat": 34.4208305, "lng": -119.6981901}}
+{"key west, fl": {"lat": 24.5550593, "lng": -81.7799871}}
+{"la runion": {"lat": -21.115141, "lng": 55.536384}}
+{"slovak republic": {"lat": 48.669026, "lng": 19.699024}}
+{"san francisco || oakland": {"lat": 37.8043637, "lng": -122.2711137}}
+{"cortex prfrontal": {"lat": 51.49194, "lng": 11.95642}}
+{"niedersachsen / deutschland": {"lat": 52.6367036, "lng": 9.8450766}}
+{"mandalay, myanmar.": {"lat": 21.9588282, "lng": 96.0891032}}
+{"ajaccio corsica": {"lat": 41.919229, "lng": 8.738635}}
+{"caen, france": {"lat": 49.182863, "lng": -0.370679}}
+{"cholet, france": {"lat": 47.059407, "lng": -0.879787}}
+{"republic of korea": {"lat": 35.907757, "lng": 127.766922}}
+{"dole, france": {"lat": 47.09534, "lng": 5.49081}}
+{"la seyne-sur-mer, provence-alpes-cte d'azur": {"lat": 43.102976, "lng": 5.878219}}
+{"olvera - sevilla - cdiz - bruselas": {"lat": 36.9349767, "lng": -5.2537546}}
+{"suisse": {"lat": 46.818188, "lng": 8.227511999999999}}
+{"le mexique": {"lat": 23.634501, "lng": -102.552784}}
+{"chalon-sur-sane, france": {"lat": 46.780764, "lng": 4.853947}}
+{"la chapelle saint luc": {"lat": 48.312011, "lng": 4.047817999999999}}
+{"manhattan, ny": {"lat": 40.7830603, "lng": -73.9712488}}
+{"nulpart": {"lat": 45.5826594, "lng": -73.53015049999999}}
+{"ivry-sur-seine": {"lat": 48.813055, "lng": 2.38822}}
+{"ardche": {"lat": 44.4835493, "lng": 4.3420229}}
+{"el reino del revs": {"lat": 42.265249, "lng": -8.785385}}
+{"cote d'ivoire": {"lat": 7.539988999999999, "lng": -5.547079999999999}}
+{"noisy-le-sec, ile-de-france": {"lat": 48.892489, "lng": 2.458625}}
+{"chlons-en-champagne, france": {"lat": 48.956682, "lng": 4.363073}}
+{"rio de janeiro, copacabana": {"lat": -22.9697777, "lng": -43.1868592}}
+{"bruxelles, lille, dunkerque": {}}
+{"nantes": {"lat": 47.218371, "lng": -1.553621}}
+{"lauwin-planque": {"lat": 50.39024200000001, "lng": 3.045871}}
+{"la longueville, france": {"lat": 50.292657, "lng": 3.866238}}
+{"rosario / santa fe": {"lat": -32.9442426, "lng": -60.65053880000001}}
+{"loading...": {"lat": 31.187818, "lng": 121.442403}}
+{"rio de janeiro, rj - brasil": {"lat": -22.9068467, "lng": -43.1728965}}
+{"vincennes, france": {"lat": 48.847759, "lng": 2.4394969}}
+{"paris (via tunis & d)": {"lat": 36.8028173, "lng": 10.1809131}}
+{"canton, ohio ": {"lat": 40.79894729999999, "lng": -81.378447}}
+{"runion island": {"lat": -21.115141, "lng": 55.536384}}
+{"belo horizonte mg brasil": {"lat": -19.9245018, "lng": -43.93523760000001}}
+{"clermont-ferrand, france": {"lat": 45.77722199999999, "lng": 3.087025}}
+{"rhone alpes": {"lat": 45.1695797, "lng": 5.4502821}}
+{"edmonton, alberta": {"lat": 53.544389, "lng": -113.4909267}}
+{"ventura, ca": {"lat": 34.274646, "lng": -119.2290316}}
+{"sardinia is my land": {"lat": 40.1208752, "lng": 9.012892599999999}}
+{"le muy, france": {"lat": 43.472036, "lng": 6.566574999999999}}
+{"montpellier, france": {"lat": 43.610769, "lng": 3.876716}}
+{"caen, basse-normandie": {"lat": 49.182863, "lng": -0.370679}}
+{"vannes, france": {"lat": 47.658236, "lng": -2.760847}}
+{"in #charlie's land.": {"lat": 20.593684, "lng": 78.96288}}
+{"bayrampaa, istanbul": {"lat": 41.0481503, "lng": 28.90045529999999}}
+{"juan les pins": {"lat": 43.5691905, "lng": 7.1123854}}
+{"jvea, comunidad valenciana": {"lat": 38.7890109, "lng": 0.1660813}}
+{"rpublique dmocratique du con": {}}
+{"saint-dizier": {"lat": 48.637692, "lng": 4.947418}}
+{"bordeaux, france": {"lat": 44.837789, "lng": -0.57918}}
+{"campinas": {"lat": -22.9098833, "lng": -47.0625812}}
+{"    ": {}}
+{"lige, belgique": {"lat": 50.6325574, "lng": 5.5796662}}
+{"huizen, nederland": {"lat": 52.2994652, "lng": 5.2433925}}
+{"issou, france": {"lat": 48.989101, "lng": 1.79347}}
+{"yaound - cameroun": {"lat": 3.8480325, "lng": 11.5020752}}
+{"washington, dc": {"lat": 38.9071923, "lng": -77.0368707}}
+{"lost in absurdistan": {}}
+{"earlimart, ca": {"lat": 35.8841206, "lng": -119.2723328}}
+{"maroc": {"lat": 31.791702, "lng": -7.092619999999999}}
+{"fontainebleau, france": {"lat": 48.40467599999999, "lng": 2.70162}}
+{"casablanca": {"lat": 33.5731104, "lng": -7.589843399999999}}
+{"paris-france": {"lat": 48.856614, "lng": 2.3522219}}
+{"buenos aires": {"lat": -34.6036844, "lng": -58.3815591}}
+{"beijing": {"lat": 39.90419989999999, "lng": 116.4073963}}
+{"cincinnati ohio": {"lat": 39.1031182, "lng": -84.5120196}}
+{"cebu city, central visayas": {"lat": 10.3156992, "lng": 123.8854366}}
+{"paname": {"lat": 48.856614, "lng": 2.3522219}}
+{"lille, france": {"lat": 50.62925, "lng": 3.057256}}
+{"eurometropolis": {"lat": 12.96561, "lng": 77.713584}}
+{"espanya": {"lat": 40.46366700000001, "lng": -3.74922}}
+{"royaume du maroc": {"lat": 31.791702, "lng": -7.092619999999999}}
+{"la vida y tal.": {"lat": 19.3037268, "lng": -99.2304236}}
+{"barcelona, catalunya": {"lat": 41.3850639, "lng": 2.1734035}}
+{"ivory coast": {"lat": 7.539988999999999, "lng": -5.547079999999999}}
+{"culiacn, mxico": {"lat": 24.8090649, "lng": -107.3940117}}
+{"saint-brieuc": {"lat": 48.51418, "lng": -2.765835}}
+{"t: 41.718765,2.734009": {"lat": 38.935057, "lng": -81.734537}}
+{"istanbul, trkiye": {"lat": 41.0082376, "lng": 28.9783589}}
+{"nice": {"lat": 43.7101728, "lng": 7.261953200000001}}
+{"saint-pierre, la runion": {"lat": -21.3222914, "lng": 55.5025595}}
+{"oaxaca": {"lat": 17.0542297, "lng": -96.7132304}}
+{"santa catarina": {"lat": -27.5961377, "lng": -48.4587382}}
+{"planet nameck": {}}
+{"metz, france": {"lat": 49.1193089, "lng": 6.175715599999999}}
+{"donostia, euskal herria": {"lat": 43.318334, "lng": -1.9812313}}
+{"bj city": {"lat": 38.601417, "lng": -121.427839}}
+{"mlaga - espaa": {"lat": 36.7212737, "lng": -4.4213988}}
+{"vernon": {"lat": 34.1545306, "lng": -99.2650804}}
+{"lancaster, uk": {"lat": 54.046575, "lng": -2.8007399}}
+{"genova": {"lat": 44.4056499, "lng": 8.946256}}
+{"indisponible": {}}
+{"bordeaux, aquitaine": {"lat": 44.837789, "lng": -0.57918}}
+{"berlin": {"lat": 52.52000659999999, "lng": 13.404954}}
+{"catalunya": {"lat": 41.5911589, "lng": 1.5208624}}
+{"bastia": {"lat": 42.697283, "lng": 9.450880999999999}}
+{"@kendrickinfosfr": {}}
+{"yacoub el mansour, royaume du": {}}
+{"arbcies, catalunya.": {"lat": 41.8165773, "lng": 2.511129}}
+{"muy cerca de ti. no te gires .": {}}
+{"barcelona, espaa": {"lat": 41.3850639, "lng": 2.1734035}}
+{"gentilly, france": {"lat": 48.8138999, "lng": 2.344688}}
+{"in catalonia": {"lat": 41.5911589, "lng": 1.5208624}}
+{"torredembarra": {"lat": 41.14409670000001, "lng": 1.4009454}}
+{"bogota": {"lat": 4.710988599999999, "lng": -74.072092}}
+{"cergy": {"lat": 49.03561699999999, "lng": 2.060325}}
+{"kamouraska": {"lat": 47.566059, "lng": -69.865995}}
+{"nantes, pays de la loire": {"lat": 47.218371, "lng": -1.553621}}
+{"pub": {"lat": 40.5105392, "lng": -88.9821936}}
+{"jura, france": {"lat": 46.76247499999999, "lng": 5.6729159}}
+{"king-stone": {"lat": 41.9270367, "lng": -73.9973608}}
+{"cina": {"lat": 35.86166, "lng": 104.195397}}
+{"city of london, london": {"lat": 51.5123443, "lng": -0.0909852}}
+{"paris - annaba": {"lat": 36.8229009, "lng": 7.8176335}}
+{"nantes, france": {"lat": 47.218371, "lng": -1.553621}}
+{"blagnac, france": {"lat": 43.63508700000001, "lng": 1.39703}}
+{"chicago,berlin,paris": {}}
+{"toronto, ontario": {"lat": 43.653226, "lng": -79.3831843}}
+{"yrr": {"lat": 31.3116608, "lng": 121.4909491}}
+{"marcq / lille": {"lat": 50.670368, "lng": 3.096267}}
+{"rabat-sal-zemmour-zaer": {"lat": 33.9715904, "lng": -6.8498129}}
+{"agullana | alt empord": {"lat": 42.40773250000001, "lng": 2.847737}}
+{"bro sant brieg, bretagne": {}}
+{"repblica de tartaristan, rusia": {"lat": 55.1802364, "lng": 50.7263945}}
+{"provence-alpes-cte d'azur, fr": {"lat": 43.9351691, "lng": 6.0679194}}
+{"manar1": {"lat": 36.8321508, "lng": 10.1465179}}
+{"cd mxico": {"lat": 19.4326077, "lng": -99.133208}}
+{"storm's end": {"lat": 36.2033178, "lng": -78.9613215}}
+{"mcon, france": {"lat": 46.3068839, "lng": 4.828730999999999}}
+{"joinville - sc": {"lat": -26.3044084, "lng": -48.84638320000001}}
+{"france / toursparislillelb": {}}
+{"les lucs-sur-boulogne, france": {"lat": 46.844355, "lng": -1.496408}}
+{"arenys de munt": {"lat": 41.6093683, "lng": 2.5408414}}
+{"hogwarts": {"lat": 50.007765, "lng": 36.221724}}
+{"au cimetire du pre lachaise": {"lat": 48.861393, "lng": 2.3933276}}
+{"pruszkw, polska": {"lat": 52.1704725, "lng": 20.8118862}}
+{"ouagadougou": {"lat": 12.3714277, "lng": -1.5196603}}
+{"upper normandy, france": {"lat": 49.524641, "lng": 0.8828328999999999}}
+{"wavrin, france": {"lat": 50.56928, "lng": 2.9308709}}
+{"los angeles, ca": {"lat": 34.0522342, "lng": -118.2436849}}
+{"reims, nouvelle-austrasie": {}}
+{"gerona, espaa": {"lat": 41.9794005, "lng": 2.8214264}}
+{"salt, girona": {"lat": 41.9726971, "lng": 2.791944}}
+{"kabalagala senyonga road": {}}
+{"guadeloupe": {"lat": 16.265, "lng": -61.55099999999999}}
+{"puebla, mxico.": {"lat": 19.0412967, "lng": -98.20619959999999}}
+{"royaume-uni": {"lat": 55.378051, "lng": -3.435973}}
+{"isle of hope, ga": {"lat": 31.9818802, "lng": -81.0609446}}
+{"manresa, barcelona": {"lat": 41.7163888, "lng": 1.8220818}}
+{"gerona, catalua": {"lat": 41.9794005, "lng": 2.8214264}}
+{"madrid. espaa. mundo.": {"lat": 40.417779, "lng": -3.699088}}
+{"lejos": {"lat": 43.839972, "lng": 2.166246}}
+{"brest, france": {"lat": 48.390394, "lng": -4.486076}}
+{"ni te imaginas donde estoy..": {}}
+{"strasbourg france": {"lat": 48.5734053, "lng": 7.752111299999999}}
+{"cd. mxico": {"lat": 19.4326077, "lng": -99.133208}}
+{"repblica catalana": {"lat": 41.4241118, "lng": 2.1196184}}
+{"dtc": {"lat": 36.075756, "lng": -86.032884}}
+{"cocody": {"lat": 5.3602164, "lng": -3.9674371}}
+{"guinne conakry": {"lat": 9.641185499999999, "lng": -13.5784012}}
+{"le cabellou": {"lat": 47.853943, "lng": -3.907437}}
+{"la roche sur yon, vende": {"lat": 46.670511, "lng": -1.426442}}
+{"22150": {"lat": 38.7742151, "lng": -77.1887747}}
+{"annecy-le-vieux, france": {"lat": 45.9192139, "lng": 6.141949899999999}}
+{"abrera": {"lat": 41.5175266, "lng": 1.9017802}}
+{"kinshasa - rdc": {"lat": -4.4419311, "lng": 15.2662931}}
+{"wxj": {"lat": 22.959318, "lng": 113.771834}}
+{"ancona": {"lat": 43.6158299, "lng": 13.518915}}
+{"new york city": {"lat": 40.7127753, "lng": -74.0059728}}
+{"jupiter": {"lat": 26.9342246, "lng": -80.0942087}}
+{"dordogne,corrze": {"lat": 45.4320081, "lng": 2.0195909}}
+{"aix-en-provence": {"lat": 43.529742, "lng": 5.447426999999999}}
+{"radical daydream": {}}
+{"marseille": {"lat": 43.296482, "lng": 5.36978}}
+{"iparralde. basque country.": {"lat": 43.2449128, "lng": -1.2891036}}
+{"novi sad": {"lat": 45.2671352, "lng": 19.8335496}}
+{"rabat-sal-zemmour-zaer, moroc": {"lat": 33.8175173, "lng": -6.2375947}}
+{"france - lorient": {"lat": 47.7482524, "lng": -3.3702449}}
+{"29 rue de meaux 75019 paris": {"lat": 48.8797933, "lng": 2.3719209}}
+{"chinon, france": {"lat": 47.167296, "lng": 0.240385}}
+{"belgique": {"lat": 50.503887, "lng": 4.469936}}
+{"@lille": {"lat": 50.62925, "lng": 3.057256}}
+{"la roche maurice": {"lat": 48.47232899999999, "lng": -4.203383}}
+{"belgique (n)": {"lat": 50.503887, "lng": 4.469936}}
+{"porto alegre": {"lat": -30.0346471, "lng": -51.2176584}}
+{"quertaro, mxico": {"lat": 20.5888184, "lng": -100.3898876}}
+{"star wars": {"lat": 46.9761388, "lng": -123.8137637}}
+{"ciudad real - espaa": {"lat": 38.9848295, "lng": -3.927377799999999}}
+{"abidjan-cocody les 2 plateaux": {"lat": 5.3628684, "lng": -3.9972611}}
+{"niamey las palmas espagne": {}}
+{"maisons-alfort, france": {"lat": 48.801148, "lng": 2.429443}}
+{"university of bristol, uk": {"lat": 51.4584172, "lng": -2.6029792}}
+{"hauts-de-seine, ile-de-france": {"lat": 48.828508, "lng": 2.2188068}}
+{"perpignan": {"lat": 42.6886591, "lng": 2.8948332}}
+{"57": {"lat": 39.2725819, "lng": -88.4684006}}
+{"75015": {"lat": 32.830161, "lng": -96.9803989}}
+{"niort": {"lat": 46.323716, "lng": -0.4647769999999999}}
+{"france, paris": {"lat": 48.856614, "lng": 2.3522219}}
+{"bourgogne, france": {"lat": 47.0525047, "lng": 4.3837215}}
+{"belgiques seneffe 7181": {"lat": 50.5707346, "lng": 4.2538294}}
+{"viladecans, catalunya": {"lat": 41.3153816, "lng": 2.0131702}}
+{"rotterdam - bruselas": {"lat": 50.8675343, "lng": 4.3402872}}
+{"dordogne, aquitaine": {"lat": 45.14694859999999, "lng": 0.7572205}}
+{"beirut.": {"lat": 33.8937913, "lng": 35.5017767}}
+{"campinas, so paulo, brasil": {"lat": -22.9098833, "lng": -47.0625812}}
+{"with ace": {"lat": 40.8526855, "lng": -79.0277006}}
+{"cabo frio, brasil": {"lat": -22.8867507, "lng": -42.0262542}}
+{"harare": {"lat": -17.8251657, "lng": 31.03351}}
+{"le sud / paris": {"lat": 48.878947, "lng": 2.2847646}}
+{"montreuil, france": {"lat": 48.863812, "lng": 2.448451}}
+{"castilla la mancha, engancha": {"lat": 39.8614814, "lng": -3.9611989}}
+{"berriozar nafarroa": {"lat": 42.8382486, "lng": -1.6699958}}
+{"avignon, france": {"lat": 43.94931700000001, "lng": 4.805528}}
+{"duba": {"lat": 27.3457474, "lng": 35.7243073}}
+{"cuernavaca, morelos": {"lat": 18.9242095, "lng": -99.22156590000002}}
+{"the hague": {"lat": 52.0704978, "lng": 4.3006999}}
+{"montpellier, languedoc-roussillon": {"lat": 43.610769, "lng": 3.876716}}
+{"calais, france": {"lat": 50.95129000000001, "lng": 1.858686}}
+{"le monde,,,,": {"lat": 40.8058032, "lng": -73.9658918}}
+{"yangonmyanmar": {"lat": 16.8660694, "lng": 96.19513200000002}}
+{"montreuil - paris - rouen": {}}
+{"cosenza, calabria": {"lat": 39.2982629, "lng": 16.2537357}}
+{"pont l vque 14130": {"lat": 49.284982, "lng": 0.182766}}
+{"dgo": {"lat": 37.2774677, "lng": -107.8797528}}
+{"le mans": {"lat": 48.00611000000001, "lng": 0.199556}}
+{"le havre et lille": {"lat": 50.6193116, "lng": 3.0745402}}
+{"rome, lazio": {"lat": 41.9027835, "lng": 12.4963655}}
+{"bretagne, finistre": {"lat": 48.2520249, "lng": -3.9300525}}
+{"paris - lille": {"lat": 50.6296679, "lng": 3.0687981}}
+{"kocaeli niversitesi": {"lat": 40.8223347, "lng": 29.9217153}}
+{"st andreu de palomar,catalonia": {"lat": 41.4336754, "lng": 2.1857902}}
+{"marseille, provence-alpes-cte d'azur": {"lat": 43.296482, "lng": 5.36978}}
+{"la lune": {"lat": 43.074834, "lng": -87.899259}}
+{"bastia - corse": {"lat": 42.697283, "lng": 9.450880999999999}}
+{"madrid, espagne ": {"lat": 40.4167754, "lng": -3.7037902}}
+{"limoges": {"lat": 45.83361900000001, "lng": 1.261105}}
+{"trkiye": {"lat": 38.963745, "lng": 35.243322}}
+{"bellerive-sur-allier, france": {"lat": 46.117638, "lng": 3.402355}}
+{"earth": {"lat": 34.2331373, "lng": -102.4107493}}
+{"mohammedia, royaume du maroc": {"lat": 33.6835086, "lng": -7.384854699999999}}
+{"africa": {"lat": -8.783195, "lng": 34.508523}}
+{"turin, piedmont": {"lat": 45.0703393, "lng": 7.686864}}
+{"saint-malo, france": {"lat": 48.649337, "lng": -2.025674}}
+{"perdida mas cantando baixinho": {}}
+{"guine , conakry": {"lat": 9.641185499999999, "lng": -13.5784012}}
+{"metz": {"lat": 49.1193089, "lng": 6.175715599999999}}
+{"caracas": {"lat": 10.4805937, "lng": -66.90360629999999}}
+{"pacy sur eure": {"lat": 49.013679, "lng": 1.381434}}
+{"banha": {"lat": 30.4659929, "lng": 31.1848307}}
+{",, ": {}}
+{"bretagne, france": {"lat": 48.2020471, "lng": -2.9326435}}
+{"buire, france": {"lat": 49.90305, "lng": 4.056255}}
+{"puebla": {"lat": 19.0412967, "lng": -98.20619959999999}}
+{"francs,dijon": {"lat": 47.322047, "lng": 5.04148}}
+{"blr": {"lat": 36.0374028, "lng": -86.8074194}}
+{"repblica de catalunya": {"lat": 41.4927836, "lng": 2.0321598}}
+{"duba, emirats arabes unis": {"lat": 24.9821547, "lng": 55.402868}}
+{"so paulo/brasil": {"lat": -23.5505199, "lng": -46.63330939999999}}
+{"polynsie franaise": {"lat": -17.679742, "lng": -149.406843}}
+{"qubec, canada": {"lat": 52.9399159, "lng": -73.5491361}}
+{"ici prs de vous": {}}
+{"amiens, france": {"lat": 49.894067, "lng": 2.295753}}
+{"coaching,gestin-de-emociones": {"lat": 40.423304, "lng": -3.708749}}
+{"i'm all the way up": {"lat": 26.469095, "lng": 80.333315}}
+{"marfranc": {"lat": 41.8146857, "lng": 3.0640483}}
+{"la roche-sur-yon, france": {"lat": 46.670511, "lng": -1.426442}}
+{"1870monthey": {"lat": 46.25242009999999, "lng": 6.948041799999999}}
+{"linselles": {"lat": 50.739197, "lng": 3.080101}}
+{"lisieux, france": {"lat": 49.145922, "lng": 0.227849}}
+{"pelotas, brasil": {"lat": -31.7653989, "lng": -52.3375886}}
+{"latinoamerica": {"lat": 19.43393, "lng": -99.14056}}
+{"loin de rien": {}}
+{"pays de la loire, france": {"lat": 47.7632836, "lng": -0.3299687}}
+{"orlans": {"lat": 42.5624785, "lng": -83.1707569}}
+{"ottawa, canada": {"lat": 45.4215296, "lng": -75.69719309999999}}
+{"saint-yrieix-la-perche, france": {"lat": 45.512429, "lng": 1.2036579}}
+{"bois-guillaume-bihorel, france": {"lat": 49.4688521, "lng": 1.1148305}}
+{"trkblint, magyarorszg": {}}
+{"las palmas de gran canaria": {"lat": 28.1235459, "lng": -15.4362574}}
+{"lille / valence / lyon": {}}
+{"marseille, france": {"lat": 43.296482, "lng": 5.36978}}
+{"ciudad de mxico.": {"lat": 19.4326077, "lng": -99.133208}}
+{"annecy, france": {"lat": 45.899247, "lng": 6.129384}}
+{"marseille in france": {"lat": 43.296482, "lng": 5.36978}}
+{"le plaisir de faire plaisir": {}}
+{"montral et qubec": {"lat": 45.5008638, "lng": -73.6606072}}
+{"guine conakry": {"lat": 9.641185499999999, "lng": -13.5784012}}
+{"tribuna popular del cte cachamay": {}}
+{"hurch-tabet , beyrouth": {"lat": 33.8875696, "lng": 35.4828795}}
+{"heinsberg, deutschland": {"lat": 51.0600381, "lng": 6.118372900000001}}
+{"saint-ouen, france": {"lat": 48.911856, "lng": 2.333764}}
+{"africain et fiert": {}}
+{"huron, sd": {"lat": 44.3633173, "lng": -98.21425719999999}}
+{"capital federal": {"lat": -34.6036844, "lng": -58.3815591}}
+{"al/md, my new adopted states!": {}}
+{"was auto , fr , liked": {}}
+{"arkham asylum": {"lat": 42.0378342, "lng": -72.6122917}}
+{"jpn": {"lat": 5.5400747, "lng": 102.201574}}
+{"manhattan": {"lat": 40.7830603, "lng": -73.9712488}}
+{"guadalajara": {"lat": 20.6596988, "lng": -103.3496092}}
+{"hati / miami, usa/ france": {"lat": 25.8301773, "lng": -80.1918908}}
+{"washington dc / la havana/ and goma drc": {}}
+{"  ": {}}
+{"l o on ne m'attend pas": {}}
+{"izmir - istanbul": {"lat": 38.45731, "lng": 27.101259}}
+{"renton, wa": {"lat": 47.48287759999999, "lng": -122.2170661}}
+{"levallois perret": {"lat": 48.89321700000001, "lng": 2.287864}}
+{"plante  terre": {"lat": 45.895497, "lng": 0.6818159}}
+{"tirgu - mure   marosvsrhely": {"lat": 46.5385862, "lng": 24.5514392}}
+{"noeux-les-mines, nord-pas-de-calais": {"lat": 50.481212, "lng": 2.662174}}
+{"bern": {"lat": 46.9479739, "lng": 7.4474468}}
+{"evere": {"lat": 50.87393530000001, "lng": 4.4009421}}
+{"royal oak, mi 48067": {"lat": 42.4922946, "lng": -83.13273319999999}}
+{"santa maria d'ol": {"lat": 41.8750012, "lng": 2.0352789}}
+{"asnires-sur-seine, france": {"lat": 48.914155, "lng": 2.285369}}
+{"the americans.": {"lat": 38.8861971, "lng": -77.0130843}}
+{"kbenhavn, danmark": {"lat": 55.6760968, "lng": 12.5683372}}
+{"amsterdam, pays-bas": {"lat": 52.3702157, "lng": 4.895167900000001}}
+{"sheffield": {"lat": 53.38112899999999, "lng": -1.470085}}
+{"grenoble, france": {"lat": 45.188529, "lng": 5.724524}}
+{"la chapelle-saint-sauveur": {"lat": 47.44061199999999, "lng": -0.9856809999999999}}
+{"where god wants me": {}}
+{"besanon": {"lat": 47.237829, "lng": 6.024053899999999}}
+{"guine": {"lat": 9.945587, "lng": -9.696645}}
+{"bogot": {"lat": 4.710988599999999, "lng": -74.072092}}
+{"nmes, france": {"lat": 43.836699, "lng": 4.360054}}
+{"distrito federal, brasil": {"lat": -15.7997654, "lng": -47.8644715}}
+{"comines, france": {"lat": 50.7650099, "lng": 3.006234}}
+{"representante da republica  do brasil do reino unido dos estados brasileiros unidos     ": {}}
+{"paris/nantes": {"lat": 47.2156177, "lng": -1.5822484}}
+{"hautes-alpes, provence-alpes-cte d'azur": {"lat": 44.6008723, "lng": 6.322607199999999}}
+{"vichy france": {"lat": 46.131859, "lng": 3.425488}}
+{"kidal, azawad": {}}
+{"occitanie": {"lat": 43.8927232, "lng": 3.2827625}}
+{"washington d.c.": {"lat": 38.9071923, "lng": -77.0368707}}
+{"cass de la selva": {"lat": 45.9880161, "lng": 8.8644407}}
+{"midi-pyrnes, france": {"lat": 44.0859426, "lng": 1.5208624}}
+{"angers, france": {"lat": 47.478419, "lng": -0.5631659999999999}}
+{" 125,": {"lat": 40.9885527, "lng": -73.7663006}}
+{"bal des chats et des oiseaux": {}}
+{"diourbel": {"lat": 14.6561238, "lng": -16.2345633}}
+{"moncucq": {"lat": 44.33862, "lng": 1.209646}}
+{"lubumbashi": {"lat": -11.6876026, "lng": 27.5026174}}
+{"ici et la...": {"lat": 17.8958339, "lng": -62.84847879999999}}
+{"provence-alpes-cte d'azur": {"lat": 43.9351691, "lng": 6.0679194}}
+{"grand est": {"lat": 48.699803, "lng": 6.1878074}}
+{"yvelines": {"lat": 48.7850939, "lng": 1.8256572}}
+{"grottammare, fermo  marche": {"lat": 42.991368, "lng": 13.868077}}
+{"so lus, brasil": {"lat": -24.0090719, "lng": -52.360412}}
+{"mont-saint-aignan": {"lat": 49.459778, "lng": 1.079798}}
+{"neuilly-sur-marne, france": {"lat": 48.856898, "lng": 2.528373}}
+{"vernon, france": {"lat": 49.091958, "lng": 1.488107}}
+{"all over the word": {"lat": 44.4870954, "lng": 26.0246325}}
+{"chouf": {"lat": 33.6948309, "lng": 35.5812837}}
+{"vnh phc, vit nam": {"lat": 21.3608805, "lng": 105.5474373}}
+{"izmir": {"lat": 38.423734, "lng": 27.142826}}
+{"genve / lausanne": {"lat": 46.218846, "lng": 6.148757}}
+{"www": {"lat": 35.6615117, "lng": 139.6987557}}
+{"mrignac, france": {"lat": 44.8448769, "lng": -0.656358}}
+{"vancouver, british columbia": {"lat": 49.2827291, "lng": -123.1207375}}
+{"itapetim, brasil": {"lat": -7.4015507, "lng": -37.1472998}}
+{"berlin, allemagne": {"lat": 52.52000659999999, "lng": 13.404954}}
+{"guayana": {"lat": 8.3663119, "lng": -62.6496813}}
+{"anderlecht, belgi": {"lat": 50.8365808, "lng": 4.308187}}
+{"dunya": {"lat": 41.4580437, "lng": 25.036326}}
+{"italia": {"lat": 41.87194, "lng": 12.56738}}
+{"sarthe, pays de la loire": {"lat": 47.9217014, "lng": 0.1655803}}
+{"riccione, emilia romagna": {"lat": 43.9921085, "lng": 12.6503292}}
+{"plormel, france": {"lat": 47.92925400000001, "lng": -2.396846}}
+{"montreal, quebec": {"lat": 45.5016889, "lng": -73.567256}}
+{"fleury-les-aubrais, france": {"lat": 47.931513, "lng": 1.920754}}
+{"saint-louis, sngal": {"lat": 16.0326307, "lng": -16.4818167}}
+{"reims, france": {"lat": 49.258329, "lng": 4.031696}}
+{"poudlard, uk": {}}
+{"valenzuela": {"lat": 14.7010556, "lng": 120.9830225}}
+{"madrid - wrocaw": {}}
+{"cte d'ivoire": {"lat": 7.539988999999999, "lng": -5.547079999999999}}
+{"aziz": {"lat": 35.758478, "lng": 2.4999918}}
+{"orlans, france": {"lat": 47.902964, "lng": 1.909251}}
+{"salle commune des serpentard": {}}
+{"coulaines, france": {"lat": 48.023031, "lng": 0.200556}}
+{"paris france": {"lat": 48.856614, "lng": 2.3522219}}
+{"chteauguay": {"lat": 45.3625334, "lng": -73.7328805}}
+{"besanon, france": {"lat": 47.237829, "lng": 6.024053899999999}}
+{"in a galaxy very very near.": {}}
+{"tunisie sousse sahloul": {"lat": 35.8403334, "lng": 10.5943216}}
+{"londres": {"lat": 51.5073509, "lng": -0.1277583}}
+{"qui a interesse.": {}}
+{"belo horizonte, minas gerais": {"lat": -19.9245018, "lng": -43.93523760000001}}
+{"haute-normandie, france": {"lat": 49.524641, "lng": 0.8828328999999999}}
+{"vertou": {"lat": 47.168194, "lng": -1.473378}}
+{"barueri, brasil": {"lat": -23.5113691, "lng": -46.87294199999999}}
+{"les clayes-sous-bois, france": {"lat": 48.82342, "lng": 1.976374}}
+{"wherever i lay my books": {}}
+{"pamplona, es": {"lat": 42.812526, "lng": -1.6457745}}
+{"qubec": {"lat": 52.9399159, "lng": -73.5491361}}
+{"citoyen du monde": {"lat": 47.214584, "lng": -1.562651}}
+{"slo admira.": {"lat": 35.0292488, "lng": -120.5550943}}
+{"abidjan": {"lat": 5.3599517, "lng": -4.0082563}}
+{"santiago, chili": {"lat": -33.4488897, "lng": -70.6692655}}
+{"lorraine, france": {"lat": 48.8744233, "lng": 6.2080932}}
+{"ste, france": {"lat": 43.4078758, "lng": 3.7008219}}
+{"villeneuve-loubet, france": {"lat": 43.6578919, "lng": 7.122337}}
+{"gu - tw - 75017": {"lat": 25.0412785, "lng": 121.5521658}}
+{"oax mex": {"lat": 17.0594169, "lng": -96.7216219}}
+{"manchester:newton heath": {"lat": 53.499558, "lng": -2.184666}}
+{"au pays des merveilles": {"lat": 45.975416, "lng": -74.17321199999999}}
+{"capital federal, buenos aires": {"lat": -34.6036844, "lng": -58.3815591}}
+{"oslo": {"lat": 59.9138688, "lng": 10.7522454}}
+{"ciudad de mxico": {"lat": 19.4326077, "lng": -99.133208}}
+{"madrid, comunidad de madrid": {"lat": 40.4167754, "lng": -3.7037902}}
+{"hyres, provence-alpes-cte d'azur": {"lat": 43.120541, "lng": 6.128639}}
+{"landor associates - paris": {"lat": 48.8740197, "lng": 2.3498802}}
+{"costa da morte": {"lat": 43.0022978, "lng": -9.1456153}}
+{"brest": {"lat": 48.390394, "lng": -4.486076}}
+{"florence,i": {"lat": 43.7695604, "lng": 11.2558136}}
+{"finistere, brittany": {"lat": 48.2520249, "lng": -3.9300525}}
+{"im sden deutschlands": {"lat": 48.11056, "lng": 11.6276}}
+{"worcester ma": {"lat": 42.2625932, "lng": -71.8022934}}
+{"tegran": {"lat": -34.80918, "lng": -58.446749}}
+{"high fiving a million angels": {}}
+{"bretagne": {"lat": 48.2020471, "lng": -2.9326435}}
+{"lebbeke, belgi": {"lat": 51.0005702, "lng": 4.1292201}}
+{"les mureaux": {"lat": 48.990181, "lng": 1.912178}}
+{"vermont, usa": {"lat": 44.5588028, "lng": -72.57784149999999}}
+{"lvis, qubec": {"lat": 46.7382265, "lng": -71.2464591}}
+{"campo grande ms": {"lat": -20.4697105, "lng": -54.6201211}}
+{"douala": {"lat": 4.0510564, "lng": 9.7678687}}
+{"cgtc.zes@gmail.com": {}}
+{"centre, france": {"lat": 47.7515686, "lng": 1.6750631}}
+{"web": {"lat": 30.136588, "lng": -81.5321615}}
+{"vieu de sus, romnia": {"lat": 47.7150521, "lng": 24.4396734}}
+{"calais, nord-pas-de-calais": {"lat": 50.95129000000001, "lng": 1.858686}}
+{"geneva": {"lat": 46.2043907, "lng": 6.1431577}}
+{"zaragoza - espaa": {"lat": 41.6488226, "lng": -0.8890853}}
+{"brest, rennes": {"lat": 48.11269069999999, "lng": -1.6936897}}
+{"baghdad": {"lat": 33.3128057, "lng": 44.3614875}}
+{"oulad fares, royaume du maroc": {"lat": 32.8853175, "lng": -6.9103843}}
+{"philadelphia": {"lat": 39.9525839, "lng": -75.1652215}}
+{"d'ici et d'ailleurs": {"lat": 48.2478533, "lng": -79.0179184}}
+{"new york": {"lat": 40.7127753, "lng": -74.0059728}}
+{"in the universe": {"lat": 34.0445575, "lng": -118.2353273}}
+{"coutances": {"lat": 49.047808, "lng": -1.4452609}}
+{"catania, sicily": {"lat": 37.5078772, "lng": 15.0830304}}
+{"ohio": {"lat": 40.4172871, "lng": -82.90712300000001}}
+{"finistre": {"lat": 48.2520249, "lng": -3.9300525}}
+{"sennecey-le-grand, france": {"lat": 46.638739, "lng": 4.86918}}
+{"beacon hills": {"lat": 36.1675899, "lng": -83.4235063}}
+{"carrefour de villejuif": {"lat": 48.7823921, "lng": 2.368326}}
+{"my mind": {"lat": 40.8920494, "lng": -111.8913253}}
+{"yvelines, ile-de-france": {"lat": 48.7850939, "lng": 1.8256572}}
+{"principado de asturias, espaa": {"lat": 43.3613953, "lng": -5.8593267}}
+{"west palm beach, fl": {"lat": 26.7153424, "lng": -80.0533746}}
+{"lille": {"lat": 50.62925, "lng": 3.057256}}
+{"constantine- ": {"lat": 41.8411603, "lng": -85.6686026}}
+{"seyssinet-pariset, france": {"lat": 45.1729516, "lng": 5.6703133}}
+{"mouans-sartoux, france": {"lat": 43.6203689, "lng": 6.972497}}
+{"port  binson": {"lat": 43.039147, "lng": -79.209839}}
+{"alex": {"lat": 45.889042, "lng": 6.238095}}
+{"helsinki, suomi": {"lat": 60.16985569999999, "lng": 24.9383791}}
+{"dunwoody, ga": {"lat": 33.9462125, "lng": -84.3346473}}
+{"texas": {"lat": 31.9685988, "lng": -99.9018131}}
+{"atlanta, ga": {"lat": 33.7489954, "lng": -84.3879824}}
+{",": {}}
+{"o on ne m'attends pas !": {}}
+{"mayenne, france": {"lat": 48.3050874, "lng": -0.6185636}}
+{"vert, france": {"lat": 48.941224, "lng": 1.692156}}
+{"saint quentin - thirache": {"lat": 49.8568025, "lng": 3.274193}}
+{"tokyo": {"lat": 35.6894875, "lng": 139.6917064}}
+{"csgo": {"lat": 39.585671, "lng": 28.627058}}
+{"armentieres 59280": {"lat": 50.691652, "lng": 2.884218}}
+{"marrakech - tensift - al haouz": {"lat": 31.5628076, "lng": -7.959286299999999}}
+{"aix-les-bains, france": {"lat": 45.692341, "lng": 5.908998}}
+{"rhne-alpes, france": {"lat": 45.1695797, "lng": 5.4502821}}
+{"fantme": {}}
+{"oakland, ca": {"lat": 37.8043637, "lng": -122.2711137}}
+{"hrault, languedoc-roussillon": {"lat": 43.5912356, "lng": 3.2583626}}
+{"m'sila": {"lat": 35.316633, "lng": 4.2333355}}
+{"l'hospitalet de llobregat": {"lat": 41.3661865, "lng": 2.1164942}}
+{"saint-nazaire, france": {"lat": 47.2734979, "lng": -2.213848}}
+{"saint-denis": {"lat": 48.936181, "lng": 2.357443}}
+{"abidjan, cte d'ivoire": {"lat": 5.3599517, "lng": -4.0082563}}
+{"rabat - sal - zemmour - zar,": {"lat": 33.8175173, "lng": -6.2375947}}
+{"laventie, france": {"lat": 50.628314, "lng": 2.771832}}
+{" /   ": {}}
+{"l": {"lat": 51.4427238, "lng": 6.0608726}}
+{"sede territoriale - roma ovest": {}}
+{"bruxelles/nice/lisbonne": {}}
+{"30,avenue michlifen  rabat": {"lat": 33.9936785, "lng": -6.848606699999999}}
+{"le mans, france": {"lat": 48.00611000000001, "lng": 0.199556}}
+{"cdmx": {"lat": 19.4326077, "lng": -99.133208}}
+{"california, usa": {"lat": 36.778261, "lng": -119.4179324}}
+{"salford": {"lat": 53.48752349999999, "lng": -2.2901264}}
+{"melbourne": {"lat": -37.8136276, "lng": 144.9630576}}
+{"simiane-collongue, france": {"lat": 43.429668, "lng": 5.434832999999999}}
+{"santiago, galicia": {"lat": 42.8782132, "lng": -8.5448445}}
+{"elancourt, france": {"lat": 48.78290699999999, "lng": 1.960077}}
+{"ctes-d'armor, bretagne": {"lat": 48.5108101, "lng": -3.3263676}}
+{"morteau - paris - france": {"lat": 49.1385275, "lng": 2.119813}}
+{"epinal, france": {"lat": 48.172402, "lng": 6.449403}}
+{"pereira": {"lat": 4.8087174, "lng": -75.690601}}
+{"le blanc-mesnil, france": {"lat": 48.941345, "lng": 2.46436}}
+{"la chausse-sur-marne, france": {"lat": 48.83434, "lng": 4.521439}}
+{"global (based in brussels)": {}}
+{"cotonou": {"lat": 6.3702928, "lng": 2.3912362}}
+{"san diego, ca": {"lat": 32.715738, "lng": -117.1610838}}
+{"bziers, france": {"lat": 43.344233, "lng": 3.215795}}
+{"new orleans, la": {"lat": 29.95106579999999, "lng": -90.0715323}}
+{"michigan,  usa": {"lat": 44.3148443, "lng": -85.60236429999999}}
+{"chicago, il, united states": {"lat": 41.8781136, "lng": -87.6297982}}
+{"issoudun": {"lat": 46.94753499999999, "lng": 1.988654}}
+{"hgenheim, france": {"lat": 47.563695, "lng": 7.527552}}
+{"ain defla": {"lat": 36.26102059999999, "lng": 2.2343122}}
+{"houston, tx": {"lat": 29.7604267, "lng": -95.3698028}}
+{"haute-sane, franche-comt": {"lat": 47.7569806, "lng": 6.1556282}}
+{"pantin, france": {"lat": 48.894533, "lng": 2.40963}}
+{"brno, esk republika": {"lat": 49.1950602, "lng": 16.6068371}}
+{"the north.": {"lat": 28.472926, "lng": -81.451298}}
+{"rio de janeiro - rj - brasil": {"lat": -22.9068467, "lng": -43.1728965}}
+{"paris-berlin-via strasbourg": {}}
+{"goma drc": {"lat": -1.658501, "lng": 29.2204548}}
+{"als, france": {"lat": 48.5807694, "lng": 7.743133500000001}}
+{"brasil": {"lat": -14.235004, "lng": -51.92528}}
+{"maglie, puglia": {"lat": 40.117885, "lng": 18.298741}}
+{"pars, francia": {"lat": 48.856614, "lng": 2.3522219}}
+{"ashrafieh-beirut 100.5 fm": {"lat": 33.88554, "lng": 35.523004}}
+{"el pas de la mitad del mundo": {"lat": -0.002213, "lng": -78.4558445}}
+{"tamazight": {"lat": 56.951279, "lng": 22.399744}}
+{"#asesmiciudad": {}}
+{"san luis": {"lat": 38.6270025, "lng": -90.19940419999999}}
+{"conakry": {"lat": 9.641185499999999, "lng": -13.5784012}}
+{"binic, france": {"lat": 48.6014849, "lng": -2.82492}}
+{"roma, italia, eu": {"lat": 41.9027835, "lng": 12.4963655}}
+{"winnipeg": {"lat": 49.895136, "lng": -97.13837439999999}}
+{"sint maarten": {"lat": 18.04248, "lng": -63.05483}}
+{"nouakchott": {"lat": 18.0735299, "lng": -15.9582372}}
+{"istanbul": {"lat": 41.0082376, "lng": 28.9783589}}
+{"bordeaux, france // hossegor": {"lat": 43.6631344, "lng": -1.4122931}}
+{"sud": {"lat": 1.3290526, "lng": 172.9790528}}
+{"sur terre": {"lat": 33.6094188, "lng": -117.8796404}}
+{"meurthe-et-moselle, lorraine": {"lat": 48.7997007, "lng": 6.094701400000001}}
+{"libreville": {"lat": 0.4161976, "lng": 9.4672676}}
+{"gueliz, royaume du maroc": {"lat": 31.6336545, "lng": -8.008899}}
+{"rio de janeiro - brasil": {"lat": -22.9068467, "lng": -43.1728965}}
+{"dans la   la, leduc ?": {"lat": 46.8136737, "lng": -71.2198488}}
+{"mlaga, espaa": {"lat": 36.7212737, "lng": -4.4213988}}
+{"goinia": {"lat": -16.6868824, "lng": -49.26478849999999}}
+{"corrze, limousin": {"lat": 45.4320081, "lng": 2.0195909}}
+{"oklm dans ton cul": {}}
+{"neuilly-sur-seine, france": {"lat": 48.884831, "lng": 2.26851}}
+{"morgantown, wv": {"lat": 39.629526, "lng": -79.95589679999999}}
+{"marseille, beyrouth": {"lat": 43.2463753, "lng": 5.4019007}}
+{"konoha": {"lat": 32.9159444, "lng": 130.6281987}}
+{"tours, france": {"lat": 47.394144, "lng": 0.68484}}
+{"on gallifrey": {}}
+{"rabat": {"lat": 33.9715904, "lng": -6.8498129}}
+{"plrin, france": {"lat": 48.534928, "lng": -2.770404}}
+{"partout, sauf paris.": {}}
+{"lv-426": {"lat": 30.5363151, "lng": 114.3173006}}
+{"tarascon": {"lat": 43.80604400000001, "lng": 4.65752}}
+{"bagdad": {"lat": 33.3128057, "lng": 44.3614875}}
+{"la rochelle, france": {"lat": 46.160329, "lng": -1.151139}}
+{"yaound cameroun": {"lat": 3.8480325, "lng": 11.5020752}}
+{"virginia, usa": {"lat": 37.4315734, "lng": -78.6568942}}
+{"san francisco": {"lat": 37.7749295, "lng": -122.4194155}}
+{"bargemon, provence-alpes-cte d'azur": {"lat": 43.619399, "lng": 6.551420999999999}}
+{"croix-fonsomme, france": {"lat": 49.921134, "lng": 3.403324}}
+{"mars": {"lat": 32.3593117, "lng": -95.7257968}}
+{"la roche sur yon (france)": {"lat": 46.670511, "lng": -1.426442}}
+{"freguesia do ": {"lat": 38.7877884, "lng": -27.3293009}}
+{"~": {}}
+{"everywhere": {"lat": 38.9250212, "lng": -94.68748}}
+{"hulu bernam timor, perak": {"lat": 3.7561665, "lng": 101.4996471}}
+{"le presque paris": {"lat": 48.865999, "lng": 2.348782}}
+{"no, no me ubico": {}}
+{"rio grande do sul": {"lat": -30.0346316, "lng": -51.2176986}}
+{"diamniadio": {"lat": 14.065613, "lng": -16.57579}}
+{"vaucluse": {"lat": 40.7650839, "lng": -73.9677516}}
+{"amesbury, ma usa": {"lat": 42.85839250000001, "lng": -70.93003759999999}}
+{"sarzeau, france": {"lat": 47.527684, "lng": -2.768463}}
+{"ile-de-france, france - lutce": {"lat": 48.8399899, "lng": 2.345842}}
+{"planet earth.": {"lat": 47.505175, "lng": -111.3050058}}
+{"nord-pas-de-calais, france": {"lat": 50.48011529999999, "lng": 2.7937265}}
+{"kiev": {"lat": 50.4501, "lng": 30.5234}}
+{"distrito federal": {"lat": 19.4326077, "lng": -99.133208}}
+{"cheshire": {"lat": 53.23263439999999, "lng": -2.6103158}}
+{"carrer de la torre, 9 cadaqus": {"lat": 42.28864, "lng": 3.27553}}
+{"giornalista": {"lat": 45.4835687, "lng": 9.2041907}}
+{"ohio, usa": {"lat": 40.4172871, "lng": -82.90712300000001}}
+{"forest hill, md": {"lat": 39.5850754, "lng": -76.3877289}}
+{"galicia, espaa": {"lat": 42.5750554, "lng": -8.1338558}}
+{"traveller inside the eu": {}}
+{"bthune, france": {"lat": 50.531036, "lng": 2.63926}}
+{"france aquitaine": {"lat": 44.7002222, "lng": -0.2995785}}
+{"chanzy": {"lat": 49.77345750000001, "lng": 4.729956200000001}}
+{"in lima and everywhere else": {}}
+{"lublin, polska": {"lat": 51.2464536, "lng": 22.5684463}}
+{"san don di piave ( ve )": {"lat": 45.6303733, "lng": 12.5660823}}
+{"dieuze, france": {"lat": 48.810313, "lng": 6.717569999999999}}
+{"ndalus  aleppo": {"lat": 36.2035683, "lng": 37.1522534}}
+{"mercedes - buenos aires": {"lat": -34.6510201, "lng": -59.43059960000001}}
+{"de paris, vichy et d'ailleurs.": {}}
+{"santos, brasil": {"lat": -23.9561304, "lng": -46.3264089}}
+{"labge, france": {"lat": 43.5367334, "lng": 1.5280556}}
+{"santo andr - so paulo": {"lat": -23.6742228, "lng": -46.5436003}}
+{"versailles, france": {"lat": 48.8048649, "lng": 2.1203554}}
+{"breton - barnais": {}}
+{"kigali": {"lat": -1.9705786, "lng": 30.1044288}}
+{"ni l ni ici.": {}}
+{"madrid, espaa / bristol, uk": {}}
+{"fourchambault": {"lat": 47.01444799999999, "lng": 3.082998}}
+{"namur, belgique": {"lat": 50.4673883, "lng": 4.8719854}}
+{"longueuil, qubec": {"lat": 45.5369442, "lng": -73.51071309999999}}
+{"sydney": {"lat": -33.8688197, "lng": 151.2092955}}
+{"stockholm": {"lat": 59.32932349999999, "lng": 18.0685808}}
+{"liberalis circulum": {}}
+{"kota surabaya, jawa timur": {"lat": -7.2574719, "lng": 112.7520883}}
+{"florida, usa": {"lat": 27.6648274, "lng": -81.5157535}}
+{"localisation en cours ...": {"lat": 47.43756519999999, "lng": 2.8309236}}
+{"azrou ifrane": {"lat": 33.4347305, "lng": -5.231887899999999}}
+{"ankara, trkiye": {"lat": 39.9333635, "lng": 32.8597419}}
+{"kuala lumpur - sandakan": {"lat": 5.898737, "lng": 118.061651}}
+{"chicago, champaign, il": {"lat": 40.1399779, "lng": -88.2441669}}
+{"kinshasa et lubumbashi": {"lat": -11.591111, "lng": 27.530833}}
+{"where you can find love": {"lat": 33.985839, "lng": -97.2221421}}
+{"dakar": {"lat": 14.716677, "lng": -17.4676861}}
+{"qro": {"lat": 20.5888184, "lng": -100.3898876}}
+{"st-hyacinthe": {"lat": 45.6306875, "lng": -72.956339}}
+{"algn lugar de mxico.": {"lat": 19.427788, "lng": -99.206729}}
+{"paris, london, moscow": {}}
+{"mx": {"lat": 23.634501, "lng": -102.552784}}
+{"belo horizonte, brasil": {"lat": -19.9245018, "lng": -43.93523760000001}}
+{"cape town": {"lat": -33.9248685, "lng": 18.4240553}}
+{"mendoza": {"lat": -32.8894587, "lng": -68.8458386}}
+{"montauban": {"lat": 44.0221252, "lng": 1.3529599}}
+{"chicago": {"lat": 41.8781136, "lng": -87.6297982}}
+{"new haven, ct": {"lat": 41.308274, "lng": -72.9278835}}
+{"everywhere, thanks to you": {}}
+{"far west  gironde": {"lat": 45.1791061, "lng": -1.0747333}}
+{"ottawa-gatineau": {"lat": 45.4765446, "lng": -75.7012723}}
+{"dans les 1%": {"lat": 50.3011756, "lng": 5.117509}}
+{"auxerre, france": {"lat": 47.798202, "lng": 3.573781}}
+{"ho chi minh city , viet nam": {"lat": 10.8230989, "lng": 106.6296638}}
+{"a gauche": {"lat": 43.832564, "lng": -0.5782849999999999}}
+{"merlac, france": {"lat": 43.427073, "lng": 2.765}}
+{"sauvian": {"lat": 43.294632, "lng": 3.262536}}
+{"wasihngtons, dc": {"lat": 38.9071923, "lng": -77.0368707}}
+{"casoria, campania": {"lat": 40.9075976, "lng": 14.2928248}}
+{"life is but a dream": {"lat": 35.7530201, "lng": -78.7150935}}
+{"rj-brasil": {"lat": -22.9068467, "lng": -43.1728965}}
+{"miguelturra, espaa": {"lat": 38.9756502, "lng": -3.8757119}}
+{"fleury-en-bire, france": {"lat": 48.448246, "lng": 2.5492309}}
+{"alpe d'huez": {"lat": 45.1071179, "lng": 6.0708547}}
+{"paris, ile-de-france / bt15": {"lat": 48.86899700000001, "lng": 2.334667}}
+{"1060 sheridan ave": {"lat": 40.83088559999999, "lng": -73.9183317}}
+{"global citizen": {"lat": 40.7249194, "lng": -73.99688069999999}}
+{"tiel, nederland": {"lat": 51.8876176, "lng": 5.4278765}}
+{"manzanillo (primordialmente)": {}}
+{"so paulo": {"lat": -23.5505199, "lng": -46.63330939999999}}
+{"quantumantipolitik": {}}
+{"bassiknou mauritanie": {"lat": 15.861876, "lng": -5.9541824}}
+{"rennes, nantes, paris etc": {}}
+{"oran": {"lat": 35.6970697, "lng": -0.6307988}}
+{"nowhere": {"lat": 40.7317696, "lng": -73.9841161}}
+{"stord, noreg": {"lat": 59.77883379999999, "lng": 5.5002279}}
+{"rio de janeiro": {"lat": -22.9068467, "lng": -43.1728965}}
+{"udine, friuli-venezia giulia": {"lat": 46.0710668, "lng": 13.2345794}}
+{"semur-en-auxois, france": {"lat": 47.490238, "lng": 4.332339999999999}}
+{"reggio nell'emilia": {"lat": 44.6989932, "lng": 10.6296859}}
+{"au fond du ciel, premire  droite.": {}}
+{"brittany": {"lat": 48.2020471, "lng": -2.9326435}}
+{"lyon - paris": {"lat": 48.84430380000001, "lng": 2.3743773}}
+{"# # # #hydra": {}}
+{"annecy  / rome ": {"lat": 41.904361, "lng": 12.4584761}}
+{"chteaubriant, france": {"lat": 47.720948, "lng": -1.3762239}}
+{"le royaume des chats": {"lat": 47.357197, "lng": 0.7245071}}
+{"le havre, france": {"lat": 49.49437, "lng": 0.107929}}
+{"amrica latina": {"lat": -4.4420385, "lng": -61.32685350000001}}
+{"courbevoie puteaux neuilly": {"lat": 48.8903715, "lng": 2.2622584}}
+{"loos, france": {"lat": 50.61513900000001, "lng": 3.017729}}
+{"luon, france": {"lat": 45.764043, "lng": 4.835659}}
+{"baton rouge, la": {"lat": 30.4582829, "lng": -91.1403196}}
+{"kingston, ontario, ca": {"lat": 44.2311717, "lng": -76.4859544}}
+{"paris, new york, dubai": {}}
+{"paris, troyes.": {"lat": 48.2984247, "lng": 4.0724171}}
+{"avils, asturias": {"lat": 43.5579523, "lng": -5.9246653}}
+{"limoges, france": {"lat": 45.83361900000001, "lng": 1.261105}}
+{"limoges -i": {"lat": 45.83361900000001, "lng": 1.261105}}
+{"aube, champagne-ardenne": {"lat": 48.1563418, "lng": 4.3732462}}
+{"badalona, bcn, espaa": {"lat": 41.446964, "lng": 2.2449607}}
+{"var la cadire..   de savoie": {"lat": 43.1426321, "lng": 5.7375769}}
+{"kantch": {"lat": 37.6710899, "lng": -97.4374067}}
+{"normandie": {"lat": 48.87987039999999, "lng": 0.1712529}}
+{"i'm in space": {"lat": 24.1313979, "lng": 120.66782}}
+{"edinburgh": {"lat": 55.953252, "lng": -3.188267}}
+{"bretteville-l'orgueilleuse, france": {"lat": 49.20975, "lng": -0.510508}}
+{"compigne, france": {"lat": 49.41781599999999, "lng": 2.826145}}
+{"riyadh     ": {"lat": 24.7135517, "lng": 46.6752957}}
+{"vieux-montreal, bleuet, qc": {}}
+{"l'olympe": {"lat": 40.0884128, "lng": 22.3585552}}
+{"ailleurs, en deca et au-del.": {}}
+{"montreal": {"lat": 45.5016889, "lng": -73.567256}}
+{"psicoterapeta ciudadana mundo": {}}
+{"middlesex, nj": {"lat": 40.572603, "lng": -74.4926541}}
+{"71140": {"lat": 34.1619602, "lng": -95.004251}}
+{"monistrol-sur-loire, france": {"lat": 45.292432, "lng": 4.172183}}
+{"holland, mi": {"lat": 42.7875235, "lng": -86.1089301}}
+{"tehran": {"lat": 35.6891975, "lng": 51.3889736}}
+{"parc des princes": {"lat": 48.8414356, "lng": 2.2530487}}
+{"porto-vecchio, france": {"lat": 41.591369, "lng": 9.278311}}
+{"mathiiiiilde ": {"lat": 37.7801134, "lng": -122.4029957}}
+{"ecuisses, france": {"lat": 46.755702, "lng": 4.538290000000001}}
+{"xandar": {}}
+{"aix en provence": {"lat": 43.529742, "lng": 5.447426999999999}}
+{"somme, picardie": {"lat": 49.914518, "lng": 2.2707095}}
+{"saint philbert du peuple france": {"lat": 47.393127, "lng": -0.044155}}
+{"clermont ferrand, france": {"lat": 45.77722199999999, "lng": 3.087025}}
+{"laval": {"lat": 45.6066487, "lng": -73.712409}}
+{"barrio san lucas, coyoacn": {"lat": 19.3484791, "lng": -99.15253399999999}}
+{"minato-ku, tokyo": {"lat": 35.6580681, "lng": 139.7515992}}
+{"zurich, venice, paris": {"lat": 47.377923, "lng": 8.5401898}}
+{"manaus, amazonas, brasil": {"lat": -3.1190275, "lng": -60.0217314}}
+{"mexicaltzingo, mxico": {"lat": 19.2127957, "lng": -99.586822}}
+{"bruxelles, belgique": {"lat": 50.8503396, "lng": 4.3517103}}
+{"82 160 caylus": {"lat": 44.9246551, "lng": 2.4393456}}
+{"nederland": {"lat": 39.9613759, "lng": -105.5108312}}
+{"donzacq, france": {"lat": 43.656949, "lng": -0.803821}}
+{"parisparisparis": {"lat": 42.5823474, "lng": -87.95805510000001}}
+{"elche": {"lat": 38.2699329, "lng": -0.7125608}}
+{"connecticut": {"lat": 41.6032207, "lng": -73.087749}}
+{"tarn et garonne": {"lat": 44.0126679, "lng": 1.2891036}}
+{"yaound - douala": {"lat": 3.8890133, "lng": 11.5175301}}
+{"mxico y francia": {"lat": 19.3581685, "lng": -99.17971469999999}}
+{"honolulu, hi": {"lat": 21.3069444, "lng": -157.8583333}}
+{"britain, europe & middle east": {"lat": 55.378051, "lng": -3.435973}}
+{"uncanny valley": {}}
+{"enschede, nederland": {"lat": 52.2215372, "lng": 6.8936619}}
+{"rodez": {"lat": 44.349389, "lng": 2.575986}}
+{"compigne": {"lat": 45.96328099999999, "lng": 4.295819}}
+{"constantine": {"lat": 41.8411603, "lng": -85.6686026}}
+{"cordova, tn": {"lat": 35.1598391, "lng": -89.761545}}
+{"new york usa": {"lat": 40.7127753, "lng": -74.0059728}}
+{"lisbon - rio": {"lat": 38.7658411, "lng": -9.328468299999999}}
+{"port-au-prince, hati (w.i)": {"lat": 18.594395, "lng": -72.3074326}}
+{"paris 1ier": {"lat": 48.8640493, "lng": 2.3310526}}
+{"culiacan sinaloa": {"lat": 24.8090649, "lng": -107.3940117}}
+{"paris, angers": {"lat": 47.4645927, "lng": -0.5562092}}
+{"l'isle-sur-la-sorgue, france": {"lat": 43.91419, "lng": 5.057106}}
+{"junqueiropolis, sao paulo, bra": {"lat": -21.5108173, "lng": -51.4346653}}
+{"lima per": {"lat": -12.0463731, "lng": -77.042754}}
+{"accu'il": {"lat": 40.3501197, "lng": -90.31758219999999}}
+{"longuyon, france": {"lat": 49.44603499999999, "lng": 5.600987}}
+{"colorado": {"lat": 39.5500507, "lng": -105.7820674}}
+{"abidjan paris": {"lat": 5.318645999999999, "lng": -4.014814299999999}}
+{"versailles": {"lat": 48.8048649, "lng": 2.1203554}}
+{"marrakech": {"lat": 31.6294723, "lng": -7.981084500000001}}
+{"valdivienne, france": {"lat": 46.4856949, "lng": 0.6235632999999999}}
+{"olmpia, brasil": {"lat": -20.7371116, "lng": -48.9110606}}
+{"hollywood, california": {"lat": 34.0928092, "lng": -118.3286614}}
+{"miami, fl": {"lat": 25.7616798, "lng": -80.1917902}}
+{"domont, france": {"lat": 49.030343, "lng": 2.326213}}
+{"milwaukee, wi": {"lat": 43.0389025, "lng": -87.9064736}}
+{"view park-windsor hills, ca": {"lat": 33.9929545, "lng": -118.3491169}}
+{"columbus, oh": {"lat": 39.9611755, "lng": -82.99879419999999}}
+{"europe": {"lat": 54.5259614, "lng": 15.2551187}}
+{"nantes bzh": {}}
+{"raqqa": {"lat": 35.9594106, "lng": 38.9981052}}

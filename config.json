@@ -1,3 +1,7 @@
 {
-	"geocoding_target_file" : "location_martina.csv"
+	"geocoding_target_file" : "result/location_result_1.jsonl",
+	"location_entity_file" : "data/location_1.json",
+	"start" : 1,
+	"end" : 2500,
+	"api_key" : "AIzaSyBEEUlsjdg8GZbWbk6Z3RtH--zM2v4wZt8"
 }

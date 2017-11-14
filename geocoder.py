@@ -1,41 +1,54 @@
 import requests
-from entity import Location
-import csv
-import os.path
 import json
+import time
 
 # read and apply config
 config_file = "config.json"
-json_data=open(config_file).read()
-config = json.loads(json_data)
-filename = config['geocoding_target_file']
+filename = ""
+location_file = ""
+api_key = ""
+start = 0
+end = 0
 
-arr_location_name = ["Lyon,France"]
+with open(config_file, "r") as f:
+    config = json.load(f)
+    filename = config['geocoding_target_file']
+    location_file = config['location_entity_file']
+    start = config['start']
+    end = config['end']
+    api_key = config['api_key']
+
+arr_location_name = None
+with open(location_file, "r") as f:
+    arr_location_name = json.load(f)
+
+counter = 1
+print(arr_location_name)
 
 # request API
-for i in range(0,len(arr_location_name)):
-    location_name = arr_location_name[i] # I want to keep track of the index
-    loc = Location(location_name)
-    url = "https://maps.googleapis.com/maps/api/geocode/json?address=" + location_name + "&key=AIzaSyCdVEEVmkDRdyKxSHBrnLdD66GPI0BCFts"
-    response = requests.get(url)
-    results = response.json()['results']
+for location_name in arr_location_name:
+    if counter in range(start,end+1):
+        url = "https://maps.googleapis.com/maps/api/geocode/json?address=" + location_name + "&key=" + api_key
+        response = requests.get(url)
+        obj_coordinate = {}
+        print(response.json())
+        results = response.json()['results']
 
-    if results is not None and len(results) > 0:
-        location_coordinate = response.json()['results'][0]['geometry']['location']
+        # parse result
+        if results is not None and len(results) > 0:
+            location_coordinate = response.json()['results'][0]['geometry']['location']
+            lat = location_coordinate['lat']
+            lng = location_coordinate['lng']
+            obj_coordinate = {'lat': location_coordinate['lat'],
+                              'lng': location_coordinate['lng']}
 
-        loc.set_lat(location_coordinate['lat'])
-        loc.set_lng(location_coordinate['lng'])
-        print(i, loc.name, loc.lat, loc.lng)
+        obj_location = {location_name: obj_coordinate}
+        print(counter, json.dumps(obj_location))
 
-        # make title if file does not exist
-        if not os.path.isfile(filename):
-            with open(filename, 'a') as csvfile:
-                writer = csv.writer(csvfile, delimiter=',', lineterminator='\n')
-                writer.writerow(["location_name", "latitude", "longitude"])
+        # write into jsonl
+        with open(filename, 'a') as jsonl:
+            jsonl.write(json.dumps(obj_location) + "\n")
 
-        # write into csv
-        with open(filename, 'a') as csvfile:
-            writer = csv.writer(csvfile, delimiter=',', lineterminator='\n')
-            writer.writerow([loc.name, loc.lat, loc.lng])
+        time.sleep(0.02)
 
-
+    counter += 1

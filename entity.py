@@ -1,7 +1,7 @@
 class Location:
     name = ""
-    lat = 0.0
-    lng = 0.0
+    lat = ""
+    lng = ""
 
     def __init__(self, str_name):
         self.name = str_name
